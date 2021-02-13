@@ -1,4 +1,4 @@
-# StastiticalMimicry
+# Stastitical Mimicry
 Reads a large body of text, learns patterns of speech, and attempts to produce new text that sounds similar to the speech that it learned. Results are often comical. Check out and run `example_application.py` to see what it's all about!
 
 ## How it Works
